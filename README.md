@@ -10,6 +10,12 @@
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" height="40"/></a>
+<a href="https://developer.nvidia.com/cuda-zone" target="_blank">
+  <img style="margin: 10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cuda/cuda-original.svg"
+       alt="CUDA"
+       height="40" />
+</a>
 
   
 </div>  
