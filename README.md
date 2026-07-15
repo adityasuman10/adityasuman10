@@ -12,11 +12,3 @@
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="40"/></a>
 </div>
 
-<br>
-
-<div align="center">
-  <video width="900" controls>
-    <source src="assets/pirana_doom.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
